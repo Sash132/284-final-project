@@ -28,6 +28,9 @@ The second attempt at comparisons comes from essentially stress-testing these to
 ### Results
 So far, with the first part, we have been able to visualize runtime amongst the four tools when tested against the different subpopulation sample lists. By doing so, it is apparent that PLINK and GERMLINE have significantly smaller runtimes than that of IBDseq and BEAGLE's fastIBD. Although specifically, it seems to always be the case that PLINK outshines GERMLINE whereas it seems to be more of a toss-up between whether IBDseq or BEAGLE's fastIBD will perform better. With the second part, taking the information we have gathered from stress-testing PLINK and plotting it on a log-log plot, it appears that PLINK is a tool that runs with a log-linear time complexity.
 
+## Challenges
+A major challenge that I faced while working on this project is understanding how to go from the standard VCF file format that is provided as a part of the 100 Genomes Phase 3 dataset and manipulating it to other file formats that are required by the tools that I am comparing. Early into working on this project, there was a rather large timesink in terms of figuring out generally what goes into an acceptable file for each specific tool and how to go about translating between file formats through code.
+
 ## Remaining Work
 So far, a majority of the work has been completed in terms of data collection. Specifically, all necessary data has been collected for the first part of comparisons. What would need to be done now is to further visualize this data in a user-friendly format that highlights when these tools are at their most efficient / least efficient. 
 
