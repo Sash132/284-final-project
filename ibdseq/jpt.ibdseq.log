@@ -1,0 +1,26 @@
+Program           :  ibdseq r1206  (max memory: 1024 MB)
+Start Time        :  09:42 PM UTC on 04 Mar 2024
+
+Parameters
+  gt              :  data/subset_jpt.vcf
+  out             :  ibdseq/jpt.ibdseq
+  minalleles      :  2
+  ibdlod          :  3.0
+  ibdtrim         :  0.0
+  errormax        :  0.001
+  errorprop       :  0.25
+  r2window        :  500
+  r2max           :  0.15
+  nthreads        :  1
+
+Data Statistics
+  samples         :  104
+  markers         :  17784
+   >= minalleles  :  14754
+   LD-thinned     :  2567  (14% of markers)
+  segments/sample :  9.3
+  mean IBD length :  1.16 Mb
+  mean IBD depth  :  0.3
+
+Wallclock Time:   :  9 seconds
+End Time          :  09:42 PM UTC on 04 Mar 2024

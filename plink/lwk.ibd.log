@@ -1,0 +1,27 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --bfile data/chr_plink
+  --genome
+  --keep samples/samples_lwk.txt
+  --out plink/lwk.ibd
+
+Hostname: dsmlp-jupyter-sgollamu
+Working directory: /home/sgollamu/final-project
+Start time: Tue Mar  5 02:20:59 2024
+
+Random number seed: 1709605259
+385412 MB RAM detected; reserving 192706 MB for main workspace.
+17784 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink/lwk.ibd.nosex .
+--keep: 99 people remaining.
+Using up to 63 threads (change this with --threads).
+Before main variant filters, 99 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.999786.
+17784 variants and 99 people pass filters and QC.
+Note: No phenotypes present.
+IBD calculations complete.
+Finished writing plink/lwk.ibd.genome .
+
+End time: Tue Mar  5 02:20:59 2024

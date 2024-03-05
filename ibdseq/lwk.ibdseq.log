@@ -1,0 +1,26 @@
+Program           :  ibdseq r1206  (max memory: 1024 MB)
+Start Time        :  09:38 PM UTC on 04 Mar 2024
+
+Parameters
+  gt              :  data/subset_lwk.vcf
+  out             :  ibdseq/lwk.ibdseq
+  minalleles      :  2
+  ibdlod          :  3.0
+  ibdtrim         :  0.0
+  errormax        :  0.001
+  errorprop       :  0.25
+  r2window        :  500
+  r2max           :  0.15
+  nthreads        :  1
+
+Data Statistics
+  samples         :  99
+  markers         :  17784
+   >= minalleles  :  16586
+   LD-thinned     :  4108  (23% of markers)
+  segments/sample :  34.0
+  mean IBD length :  1.20 Mb
+  mean IBD depth  :  1.4
+
+Wallclock Time:   :  10 seconds
+End Time          :  09:38 PM UTC on 04 Mar 2024
