@@ -1,0 +1,96 @@
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 11:22 PM UTC on 04 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_yri.bgl.gz
+  markers=data/subset_yri.markers
+  fastibd=true
+  out=fastibd/yri.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     216 (subset_yri.bgl.gz)
+
+Running time for phasing: 1 minutes 21 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 11:23 PM UTC on 04 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_yri.bgl.gz
+  markers=data/subset_yri.markers
+  fastibd=true
+  out=fastibd/yri.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     216 (subset_yri.bgl.gz)
+
+Running time for phasing: 1 minutes 19 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 06:50 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_yri.bgl.gz
+  markers=data/subset_yri.markers
+  fastibd=true
+  out=fastibd/yri.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     216 (subset_yri.bgl.gz)
+
+Running time for phasing: 1 minutes 5 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 06:51 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_yri.bgl.gz
+  markers=data/subset_yri.markers
+  fastibd=true
+  out=fastibd/yri.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     216 (subset_yri.bgl.gz)
+
+Running time for phasing: 52 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 07:34 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_yri.bgl.gz
+  markers=data/subset_yri.markers
+  fastibd=true
+  out=fastibd/yri.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     216 (subset_yri.bgl.gz)
+
+Running time for phasing: 1 minutes 4 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 07:35 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_yri.bgl.gz
+  markers=data/subset_yri.markers
+  fastibd=true
+  out=fastibd/yri.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     216 (subset_yri.bgl.gz)
+
+Running time for phasing: 1 minutes 7 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished

@@ -1,0 +1,32 @@
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 09:36 PM UTC on 08 Mar 2024
+
+Command line: java -Xmx4096m -jar beagle.jar
+  unphased=sizes/data/total_singular_200.bgl.gz
+  markers=sizes/data/total_singular_200.markers
+  fastibd=true
+  out=sizes/fastibd/total_singular_200.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     400 (total_singular_200.bgl.gz)
+
+Running time for phasing: 2 minutes 17 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 06:51 AM UTC on 09 Mar 2024
+
+Command line: java -Xmx4096m -jar beagle.jar
+  unphased=sizes/data/total_singular_200.bgl.gz
+  markers=sizes/data/total_singular_200.markers
+  fastibd=true
+  out=sizes/fastibd/total_singular_200.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     400 (total_singular_200.bgl.gz)
+
+Running time for phasing: 3 minutes 13 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished

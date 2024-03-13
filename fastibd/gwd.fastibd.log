@@ -1,0 +1,96 @@
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 11:37 PM UTC on 04 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_gwd.bgl.gz
+  markers=data/subset_gwd.markers
+  fastibd=true
+  out=fastibd/gwd.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     226 (subset_gwd.bgl.gz)
+
+Running time for phasing: 1 minutes 7 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 11:38 PM UTC on 04 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_gwd.bgl.gz
+  markers=data/subset_gwd.markers
+  fastibd=true
+  out=fastibd/gwd.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     226 (subset_gwd.bgl.gz)
+
+Running time for phasing: 1 minutes 11 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 07:02 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_gwd.bgl.gz
+  markers=data/subset_gwd.markers
+  fastibd=true
+  out=fastibd/gwd.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     226 (subset_gwd.bgl.gz)
+
+Running time for phasing: 53 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 07:03 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_gwd.bgl.gz
+  markers=data/subset_gwd.markers
+  fastibd=true
+  out=fastibd/gwd.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     226 (subset_gwd.bgl.gz)
+
+Running time for phasing: 54 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 07:46 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_gwd.bgl.gz
+  markers=data/subset_gwd.markers
+  fastibd=true
+  out=fastibd/gwd.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     226 (subset_gwd.bgl.gz)
+
+Running time for phasing: 48 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
+Beagle version 3.3.2 (31 Oct 2011)
+Enter "java -jar beagle.jar" for summary of command line arguments.
+Start time: 07:47 AM UTC on 05 Mar 2024
+
+Command line: java -Xmx1024m -jar beagle.jar
+  unphased=data/subset_gwd.bgl.gz
+  markers=data/subset_gwd.markers
+  fastibd=true
+  out=fastibd/gwd.fastibd
+  missing=?
+
+number of markers    =   17689
+number of haplotypes =     226 (subset_gwd.bgl.gz)
+
+Running time for phasing: 53 seconds
+Beagle version 3.3.2 (31 Oct 2011) finished
