@@ -16,6 +16,7 @@ If one were to run the notebook to test it for themselves, then they would need 
 - [BEAGLE 5.4](http://faculty.washington.edu/browning/beagle/beagle.html)
 - [vcf2beagle](https://faculty.washington.edu/browning/beagle_utilities/utilities.html)
 - [memusg](https://github.com/jhclark/memusg)
+In addition, ensure that the following Python libraries are installed through `pip`: `pandas`, `vcf`, `os`, `subprocess`, `numpy`, and `matplotlib`.
 
 For the sake of ownership, I have not included those files and installations within this Github repository. Although, links have been provided above to download/install the necessary files to run this notebook. Once these have been installed, then all the user would need is the `fp.ipynb` file as well as access to the 1000 Genomes Phase 3 dataset (which can be found in /public/1000Genomes in Datahub); all other files and directories will be generated as a result of executing the code cells in the notebook.
 
